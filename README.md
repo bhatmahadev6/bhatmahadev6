@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhatmahadev6
-- 👀 I’m interested in SoC Design
+- 👀 I’m interested in SoC Design/VLSI Design/Computer Arch/RISC-V
 - 🌱 I’m currently learning to boot RISC-V on FPGA
 - 💞️ I’m looking to collaborate on litex,wally-Arch,chip design projects
 - 📫 bhatmahadev6@gmail.com
