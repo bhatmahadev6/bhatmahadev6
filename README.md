@@ -1,4 +1,4 @@
-                                                     - 👋 Hi, I’m @bhatmahadev6
+                                                     - 👋 Hi, I’m Mahadev 
                ++++++++++++++++  👀 I’m interested in SoC Design/VLSI Design/Computer Arch/RISC-V ++++++++++++++++++++++
                ++++++++++++++++  🌱 I’m currently learning to boot RISC-V on FPGA with the RTOS for an app +++++++++++++
 
