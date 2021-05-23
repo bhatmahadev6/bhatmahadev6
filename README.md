@@ -1,6 +1,6 @@
                                                      - 👋 Hi, I’m @bhatmahadev6
-                                    - 👀 I’m interested in SoC Design/VLSI Design/Computer Arch/RISC-V
-                                    - 🌱 I’m currently learning to boot RISC-V on FPGA with the RTOS for an app
+               ++++++++++++++++  👀 I’m interested in SoC Design/VLSI Design/Computer Arch/RISC-V ++++++++++++++++++++++
+               ++++++++++++++++  🌱 I’m currently learning to boot RISC-V on FPGA with the RTOS for an app +++++++++++++
 
 
                                                         
@@ -21,8 +21,8 @@
 
 
 
-                                    - 💞️ I’m looking to collaborate on litex,wally-Arch,chip design projects
-                                    - 📫 bhatmahadev6@gmail.com
+            ++++++++++++++++++  💞️ I’m looking to collaborate on litex,wally-Arch,chip design projects +++++++++++++++
+            ++++++++++++++++++  📫 bhatmahadev6@gmail.com                                              +++++++++++++++
 
 
 
